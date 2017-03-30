@@ -2,7 +2,7 @@
 #include "bigInteger.h"
 
 
-int main ()
+int bigmain ()
 {
 	longInt a = NULL;
 	longInt b = NULL;

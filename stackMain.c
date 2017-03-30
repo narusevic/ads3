@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "Stack.h"
 
-int main ()
+int stackmain ()
 {
 	if (create (&st) == 0)
 		printf ("Stack has been created.\n");
